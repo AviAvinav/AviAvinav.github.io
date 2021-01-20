@@ -113,57 +113,67 @@ toggleButton[0].addEventListener('click', () => {
     }
 });
 
-listElement[0].addEventListener('click', () => {    
-    bar[0].style.width = '100%'
-    bar[1].style.width = '70%';
-    bar[2].style.width = '40%';
-    toggleButton[0].style.left = null;
-    list.classList.toggle('active');
-    modeRes[0].classList.toggle('active');
-    modeRes[1].classList.toggle('active');
-    i=0;
+listElement[0].addEventListener('click', () => {   
+    if(window.innerWidth <= 830) {
+        bar[0].style.width = '100%'
+        bar[1].style.width = '70%';
+        bar[2].style.width = '40%';
+        toggleButton[0].style.left = null;
+        list.classList.toggle('active');
+        modeRes[0].classList.toggle('active');
+        modeRes[1].classList.toggle('active');
+        i=0;
+    }
 })
 
-listElement[1].addEventListener('click', () => {    
-    bar[0].style.width = '100%'
-    bar[1].style.width = '70%';
-    bar[2].style.width = '40%';
-    toggleButton[0].style.left = null;
-    list.classList.toggle('active');
-    modeRes[0].classList.toggle('active');
-    modeRes[1].classList.toggle('active');
-    i=0;
+listElement[1].addEventListener('click', () => {     
+    if(window.innerWidth <= 830){ 
+        bar[0].style.width = '100%'
+        bar[1].style.width = '70%';
+        bar[2].style.width = '40%';
+        toggleButton[0].style.left = null;
+        list.classList.toggle('active');
+        modeRes[0].classList.toggle('active');
+        modeRes[1].classList.toggle('active');
+        i=0;
+    }
 })
 
 listElement[2].addEventListener('click', () => {    
-    bar[0].style.width = '100%'
-    bar[1].style.width = '70%';
-    bar[2].style.width = '40%';
-    toggleButton[0].style.left = null;
-    list.classList.toggle('active');
-    modeRes[0].classList.toggle('active');
-    modeRes[1].classList.toggle('active');
-    i=0;
+    if(window.innerWidth <= 830){  
+        bar[0].style.width = '100%'
+        bar[1].style.width = '70%';
+        bar[2].style.width = '40%';
+        toggleButton[0].style.left = null;
+        list.classList.toggle('active');
+        modeRes[0].classList.toggle('active');
+        modeRes[1].classList.toggle('active');
+        i=0;
+    }
 })
 
-listElement[3].addEventListener('click', () => {    
-    bar[0].style.width = '100%'
-    bar[1].style.width = '70%';
-    bar[2].style.width = '40%';
-    toggleButton[0].style.left = null;
-    list.classList.toggle('active');
-    modeRes[0].classList.toggle('active');
-    modeRes[1].classList.toggle('active');
-    i=0;
+listElement[3].addEventListener('click', () => {   
+    if(window.innerWidth <= 830){   
+        bar[0].style.width = '100%'
+        bar[1].style.width = '70%';
+        bar[2].style.width = '40%';
+        toggleButton[0].style.left = null;
+        list.classList.toggle('active');
+        modeRes[0].classList.toggle('active');
+        modeRes[1].classList.toggle('active');
+        i=0;
+    }
 })
 
 listElement[4].addEventListener('click', () => {    
-    bar[0].style.width = '100%'
-    bar[1].style.width = '70%';
-    bar[2].style.width = '40%';
-    toggleButton[0].style.left = null;
-    list.classList.toggle('active');
-    modeRes[0].classList.toggle('active');
-    modeRes[1].classList.toggle('active');
-    i=0;
+    if(window.innerWidth <= 830){  
+        bar[0].style.width = '100%'
+        bar[1].style.width = '70%';
+        bar[2].style.width = '40%';
+        toggleButton[0].style.left = null;
+        list.classList.toggle('active');
+        modeRes[0].classList.toggle('active');
+        modeRes[1].classList.toggle('active');
+        i=0;
+    }
 })
