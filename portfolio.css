@@ -168,7 +168,6 @@ nav ul li a {
     align-items: center;
     padding: 150px 0;
     width: 100%;
-    transition: 10s;
     justify-content: space-around;
     overflow-x: hidden;
 }
