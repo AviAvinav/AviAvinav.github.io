@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9cdd7bc.chunk.css",
-    "main.js": "/static/js/main.5ca7687c.chunk.js",
-    "main.js.map": "/static/js/main.5ca7687c.chunk.js.map",
+    "main.css": "/static/css/main.c6ec46f0.chunk.css",
+    "main.js": "/static/js/main.6a1a2ed0.chunk.js",
+    "main.js.map": "/static/js/main.6a1a2ed0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e88dfa6d.js",
     "runtime-main.js.map": "/static/js/runtime-main.e88dfa6d.js.map",
-    "static/js/2.c0ec891e.chunk.js": "/static/js/2.c0ec891e.chunk.js",
-    "static/js/2.c0ec891e.chunk.js.map": "/static/js/2.c0ec891e.chunk.js.map",
+    "static/js/2.11249ca4.chunk.js": "/static/js/2.11249ca4.chunk.js",
+    "static/js/2.11249ca4.chunk.js.map": "/static/js/2.11249ca4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b9cdd7bc.chunk.css.map": "/static/css/main.b9cdd7bc.chunk.css.map",
-    "static/js/2.c0ec891e.chunk.js.LICENSE.txt": "/static/js/2.c0ec891e.chunk.js.LICENSE.txt",
+    "static/css/main.c6ec46f0.chunk.css.map": "/static/css/main.c6ec46f0.chunk.css.map",
+    "static/js/2.11249ca4.chunk.js.LICENSE.txt": "/static/js/2.11249ca4.chunk.js.LICENSE.txt",
     "static/media/Aloria.ca657c34.svg": "/static/media/Aloria.ca657c34.svg",
     "static/media/AviCodeEditor.8b9b198b.png": "/static/media/AviCodeEditor.8b9b198b.png",
     "static/media/NetflixClone.3c2afe87.png": "/static/media/NetflixClone.3c2afe87.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e88dfa6d.js",
-    "static/js/2.c0ec891e.chunk.js",
-    "static/css/main.b9cdd7bc.chunk.css",
-    "static/js/main.5ca7687c.chunk.js"
+    "static/js/2.11249ca4.chunk.js",
+    "static/css/main.c6ec46f0.chunk.css",
+    "static/js/main.6a1a2ed0.chunk.js"
   ]
 }
